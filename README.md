@@ -6,11 +6,10 @@
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>
 Over the last 9 years, I have developed several websites and achieved excellent feedback from clients.
-As a senior full-stack engineer, I have strong backgrounds of various programming languages and frameworks.
 My expertise is problem solving and building robust system architecture.
 I always orient to more efficient and effective way.
 As a talented Python/JavaScript web scraping expert, I am very familiar with Selenium, Beautiful Soup(Python libraries) and Puppeteer(JavaScript library).
-  I've already scraped +300 website(Amazon, eBay etc.)
+  I've already scraped +300 website(Amazon, eBay etc.).<br/>
 As a talented web developer, I have developed several websites using PHP/JavaScript/Python frameworks for over 9 years.
 
 Here are my past projects.<br/>
