@@ -13,7 +13,7 @@ As a talented Python/JavaScript web scraping expert, I am very familiar with Sel
   I've already scraped +300 website(Amazon, eBay etc.)
 As a talented web developer, I have developed several websites using PHP/JavaScript/Python frameworks for over 9 years.
 
-Here are my past projects.
+Here are my past projects.<br/>
 ➥ http://www.thecleaningco.com/ (Cleaning Company Website) <br/>
 ➥ https://doobstaffing.com/ (Staffing Website)<br/>
 ➥ https://rapidproservices.com/ (Plumbing Services Website)<br/>
