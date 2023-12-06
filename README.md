@@ -8,8 +8,7 @@
 Over the last 9 years, I have developed several websites and achieved excellent feedback from clients.
 My expertise is problem solving and building robust system architecture.
 I always orient to more efficient and effective way.
-As a talented Python/JavaScript web scraping expert, I am very familiar with Selenium, Beautiful Soup(Python libraries) and Puppeteer(JavaScript library).
-  I've already scraped +300 website(Amazon, eBay etc.).<br/>
+As a talented blockchain expert, I am very familiar with Solidity, smart contract.<br/>
 As a talented web developer, I have developed several websites using PHP/JavaScript/Python frameworks for over 9 years.
 
 Here are my past projects.<br/>
