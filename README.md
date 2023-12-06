@@ -11,6 +11,26 @@ My expertise is problem solving and building robust system architecture.
 I always orient to more efficient and effective way.
 As a talented Python/JavaScript web scraping expert, I am very familiar with Selenium, Beautiful Soup(Python libraries) and Puppeteer(JavaScript library).
   I've already scraped +300 website(Amazon, eBay etc.)
+As a talented web developer, I have developed several websites using PHP/JavaScript/Python frameworks for over 9 years.
+
+Here are my past projects.
+➥ http://www.thecleaningco.com/ (Cleaning Company Website)
+➥ https://doobstaffing.com/ (Staffing Website)
+➥ https://rapidproservices.com/ (Plumbing Services Website)
+➥ https://rctaz.com/home/ (Technology Website)
+➥ https://analytixengine.com/ (Landing page Website)
+➥ https://sweatboxfitness.co.uk/ (Fitness Website)
+➥ https://target-healthy.co.uk/ (healthy Website)
+➥ https://www.thanettherapy.co.uk/ (Therapy Services Website)
+➥ https://www.intermezzosalon.com/ (Salon Website)
+
+Core skills and experiences:
+
+- Frontend (HTML, CSS, Bootstrap, React.js, Vue.js, Typescript)
+- Frameworks (Laravel, WordPress, CodeIgniter, MERN/MEAN stacks, Django)
+- Interaction with backend - Python, Rest API, JSON, XML, Node.js, C#.net, Flask, FastAPI
+- Databases / Data Management - MySQL, MongoDB, MariaDB
+- Version Control Tools - GitHub, Bitbucket, GitLab
 </p> 
 
 <br><br>
