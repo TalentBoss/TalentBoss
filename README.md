@@ -14,20 +14,23 @@ As a talented Python/JavaScript web scraping expert, I am very familiar with Sel
 As a talented web developer, I have developed several websites using PHP/JavaScript/Python frameworks for over 9 years.
 
 Here are my past projects.
-➥ http://www.thecleaningco.com/ (Cleaning Company Website)
-➥ https://doobstaffing.com/ (Staffing Website)
-➥ https://rapidproservices.com/ (Plumbing Services Website)
-➥ https://rctaz.com/home/ (Technology Website)
-➥ https://analytixengine.com/ (Landing page Website)
-➥ https://sweatboxfitness.co.uk/ (Fitness Website)
-➥ https://target-healthy.co.uk/ (healthy Website)
-➥ https://www.thanettherapy.co.uk/ (Therapy Services Website)
-➥ https://www.intermezzosalon.com/ (Salon Website)
+➥ http://www.thecleaningco.com/ (Cleaning Company Website) <br/>
+➥ https://doobstaffing.com/ (Staffing Website)<br/>
+➥ https://rapidproservices.com/ (Plumbing Services Website)<br/>
+➥ https://rctaz.com/home/ (Technology Website)<br/>
+➥ https://analytixengine.com/ (Landing page Website)<br/>
+➥ https://sweatboxfitness.co.uk/ (Fitness Website)<br/>
+➥ https://target-healthy.co.uk/ (healthy Website)<br/>
+➥ https://www.thanettherapy.co.uk/ (Therapy Services Website)<br/>
+➥ https://www.intermezzosalon.com/ (Salon Website)<br/>
 
 Core skills and experiences:
 
 - Frontend (HTML, CSS, Bootstrap, React.js, Vue.js, Typescript)
-- Frameworks (Laravel, WordPress, CodeIgniter, MERN/MEAN stacks, Django)
+- Framework (PHP(Laravel, CodeIgniter), Python(Django), JavaScript(MERN/MEAN stacks))
+- Web Scraping(Selenium, Beautiful Soup, Puppeteer)
+- UX/UI, Responsive Design, Web Design, Figma
+- Tailwind CSS, SASS/SCSS, CSS, Bootstrap, Mui, Styled-Component
 - Interaction with backend - Python, Rest API, JSON, XML, Node.js, C#.net, Flask, FastAPI
 - Databases / Data Management - MySQL, MongoDB, MariaDB
 - Version Control Tools - GitHub, Bitbucket, GitLab
