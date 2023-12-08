@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Welcome To My Profile. </h1>
 <p align="center">
-  <a href="https://github.com/talentboss"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Engineer;&center=true&width=800&height=60"></a>
+  <a href="https://github.com/talentboss"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Engineer;Web%20Scraping%20Expert;&center=true&width=800&height=60"></a>
 </p>
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
@@ -8,7 +8,7 @@
 Over the last 9 years, I have developed several websites and achieved excellent feedback from clients.
 My expertise is problem solving and building robust system architecture.
 I always orient to more efficient and effective way.
-As a talented blockchain expert, I am very familiar with Solidity, smart contract.<br/>
+As a talented web scraping expert, I am very familiar with Selenium, Beautiful Soup and Puppeteer.<br/>
 As a talented web developer, I have developed several websites using PHP/JavaScript/Python frameworks for over 9 years.
 
 Here are my past projects.<br/>
